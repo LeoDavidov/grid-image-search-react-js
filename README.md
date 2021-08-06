@@ -1,4 +1,4 @@
-# Check out the App in browser!
+# Check out the App in the browser!
 
 https://leodavidov.github.io/grid-image-search-react-js/
 
